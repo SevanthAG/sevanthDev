@@ -162,8 +162,6 @@ export const profile: Profile = {
         "HTML5",
         "CSS3",
         "Tailwind CSS",
-        "Framer Motion",
-        "Vite",
       ],
     },
     {
@@ -177,8 +175,6 @@ export const profile: Profile = {
         "Prisma",
         "MongoDB",
         "SQLite",
-        "LangChain",
-        "Gemini API",
       ],
     },
     {
