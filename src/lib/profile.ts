@@ -109,7 +109,7 @@ export const profile: Profile = {
         "Trello-style collaboration with role-based organizations, JWT auth and a raw WebSocket server where every board is a room. A TypeScript Turborepo split into web, API and a shared Prisma package.",
       live: null,
       repo: "https://github.com/SevanthAG",
-      status: "completed",
+      status: "In Progress",
     },
     {
       title: "Interlix AI",
